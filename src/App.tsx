@@ -1,10 +1,8 @@
-import './App.css'
 import Canvas from './components/Canvas'
 
 function App() {
-
   return (
-    <Canvas />
+    <Canvas shapeColor={'#c4b1ff'} bgColor={'#42467b'} />
   )
 }
 
